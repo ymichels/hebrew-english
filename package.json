@@ -1,0 +1,22 @@
+{
+  "name": "hebrew-english",
+  "version": "1.0.2",
+  "description": "translates from hebrew to english",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymichels/hebrew-english.git"
+  },
+  "keywords": [
+    "hebrew",
+    "translate",
+    "english",
+    "language"
+  ],
+  "author": "Yehuda Michelson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymichels/hebrew-english/issues"
+  },
+  "homepage": "https://github.com/ymichels/hebrew-english#readme"
+}
